@@ -20,5 +20,3 @@ To understand how M&A deals are structured and evaluate their impact on company 
 ## Conclusion
 The analysis highlights how the deal creates value through synergies and strategic alignment.
 
-## Live Project
-[Add your GitHub Pages link here]
